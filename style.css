@@ -29,6 +29,14 @@ h2 {
     color: #b6244fff;
 }
 
+h3 {
+    font-weight: bolder;
+    font-size: 1em;
+    text-align: left;
+    font-family: 'Segoe UI';
+    color: #8f3985ff;
+}
+
 p {
     font-family: 'Segoe UI';
     font-size: 1em;
