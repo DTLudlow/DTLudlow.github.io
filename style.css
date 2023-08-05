@@ -53,12 +53,12 @@ ul li {
 
 #leftcontent {  
     float: left;
-    width: 24%;
+    width: 16%;
 }
 
 #maincontent {
     float: left;
-    width: 74%;
+    width: 83%;
     padding-left: 10px;
 }
 
